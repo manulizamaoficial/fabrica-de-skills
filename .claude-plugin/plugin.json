@@ -1,0 +1,12 @@
+{
+  "name": "fabrica-de-skills",
+  "version": "1.0.0",
+  "description": "Convierte lo que /watch ha visto en un vídeo en una skill nueva y reutilizable, sin inventar pasos y con tu OK antes de instalarla.",
+  "author": {
+    "name": "Manu Lizama"
+  },
+  "homepage": "https://manulizama.com/skill",
+  "repository": "https://github.com/manulizamaoficial/fabrica-de-skills",
+  "license": "MIT",
+  "keywords": ["skills", "watch", "video", "claude-code", "español"]
+}

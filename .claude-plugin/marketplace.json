@@ -1,0 +1,15 @@
+{
+  "name": "fabrica-de-skills",
+  "description": "La fábrica de skills de Manu Lizama: convierte lo que /watch ve en un vídeo en una skill nueva para Claude Code.",
+  "owner": {
+    "name": "Manu Lizama"
+  },
+  "plugins": [
+    {
+      "name": "fabrica-de-skills",
+      "source": "./",
+      "description": "Convierte lo que /watch ha visto en un vídeo en una skill nueva, sin inventar pasos y con tu OK antes de instalarla.",
+      "category": "productivity"
+    }
+  ]
+}
